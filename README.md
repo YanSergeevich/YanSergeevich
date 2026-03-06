@@ -1,16 +1,23 @@
-## Hi there 👋
+### 💫 About me
 
-<!--
-**YanSergeevich/YanSergeevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java developer with experience in building applications and working with databases. Passionate about creating efficient and scalable solutions.
 
-Here are some ideas to get you started:
+### 💻 Core Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**☕ Java Development**  
+Building robust applications and backend systems with Java ecosystem.
+
+🔹 `JAVA` 🔹 `SPRING BOOT` 🔹 `SPRING MVC` 🔹 `HIBERNATE` 🔹 `MAVEN`  🔹 `REST API`
+
+**🛢️ Database**  
+Working with various databases for production-ready applications.
+
+🔹 `MYSQL` 🔹 `MONGODB` 🔹 `JDBC` 🔹 `JPA`
+
+**🛠️  Key Languages and Libraries**
+
+🔹 `Java` 🔹 `Python` 🔹 `C++`
+
+**📚 Additional Languages**
+
+🔹 `Delphi` 🔹 `C` 🔹 `HTML/CSS` 🔹 `JavaScript` 🔹 `Spring` 🔹 `JUnit` 
