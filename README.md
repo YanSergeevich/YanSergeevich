@@ -18,7 +18,7 @@ Building robust applications and backend systems with Java ecosystem.
 
 ---
 
-# 🗄️ Database  
+### 🗄️ Database  
 Working with various databases for production-ready applications.
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
