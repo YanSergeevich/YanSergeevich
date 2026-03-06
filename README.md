@@ -4,7 +4,7 @@ Java developer with experience in building applications and working with databas
 
 ---
 
-                                                          ## 💻 Core Experience
+## 💻 Core Experience
 
 ## ☕ Java Development
 Building robust applications and backend systems with Java ecosystem.
