@@ -10,6 +10,8 @@ Java developer with experience in building applications and working with databas
 Building robust applications and backend systems with Java ecosystem.
 
 🔹 `JAVA` 🔹 `SPRING BOOT` 🔹 `SPRING MVC` 🔹 `HIBERNATE` 🔹 `MAVEN`  🔹 `REST API`
+---
+
 
 **🛢️ Database**  
 Working with various databases for production-ready applications.
