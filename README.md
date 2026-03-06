@@ -2,6 +2,8 @@
 
 Java developer with experience in building applications and working with databases. Passionate about creating efficient and scalable solutions.
 
+---
+
 ### 💻 Core Experience
 
 **☕ Java Development**  
