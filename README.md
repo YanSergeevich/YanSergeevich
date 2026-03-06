@@ -13,7 +13,7 @@ Building robust applications and backend systems with Java ecosystem.
 
 ---
 
-## 🛢️ Database  
+## 🗄️ Database  
 Working with various databases for production-ready applications.
 
 🔹 `MYSQL` 🔹 `MONGODB` 🔹 `JDBC` 🔹 `JPA`
@@ -22,10 +22,10 @@ Working with various databases for production-ready applications.
 
 ## 🛠️  Key Languages and Libraries
 
-🔹 `Java` 🔹 `Python` 🔹 `C++`
+🔹 `Java` 🔹 `Python` 🔹 `C/C++`
 
 ---
 
 ## 📚 Additional Languages
 
-🔹 `Delphi` 🔹 `C` 🔹 `HTML/CSS` 🔹 `JavaScript` 🔹 `Spring` 🔹 `JUnit` 
+🔹 `Delphi` 🔹 `C#` 🔹 `HTML/CSS` 🔹 `JavaScript` 🔹 `Spring` 🔹 `JUnit` 
