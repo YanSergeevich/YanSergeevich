@@ -4,24 +4,28 @@ Java developer with experience in building applications and working with databas
 
 ---
 
-### 💻 Core Experience
+## 💻 Core Experience
 
-**☕ Java Development**  
+##**☕ Java Development**  
 Building robust applications and backend systems with Java ecosystem.
 
 🔹 `JAVA` 🔹 `SPRING BOOT` 🔹 `SPRING MVC` 🔹 `HIBERNATE` 🔹 `MAVEN`  🔹 `REST API`
+
 ---
 
-
-**🛢️ Database**  
+##**🛢️ Database**  
 Working with various databases for production-ready applications.
 
 🔹 `MYSQL` 🔹 `MONGODB` 🔹 `JDBC` 🔹 `JPA`
 
-**🛠️  Key Languages and Libraries**
+---
+
+##**🛠️  Key Languages and Libraries**
 
 🔹 `Java` 🔹 `Python` 🔹 `C++`
 
-**📚 Additional Languages**
+---
+
+##**📚 Additional Languages**
 
 🔹 `Delphi` 🔹 `C` 🔹 `HTML/CSS` 🔹 `JavaScript` 🔹 `Spring` 🔹 `JUnit` 
